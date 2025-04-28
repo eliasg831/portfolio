@@ -1,7 +1,7 @@
 # Elias Garcia - Professional Portfolio
 
-Welcome to my personal portfolio website! 🎨  
-This site highlights my experience, projects, and skills in a creative and professional format.
+Welcome to my portfolio!
+This site highlights my experience, projects, and skills!
 
 ---
 
@@ -21,11 +21,6 @@ This portfolio was created to showcase my:
 - Personal introduction letter
 - Samples of previous projects
 - Contact/review form for visitors
-
-Built with:
-- HTML5
-- CSS3 (with modern styles and animations)
-- Hosted via GitHub Pages
 
 ---
 
