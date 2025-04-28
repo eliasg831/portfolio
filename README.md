@@ -6,10 +6,10 @@ This site highlights my experience, projects, and skills in a creative and profe
 ---
 
 ## 📚 Table of Contents
-- [Resume](file:///Users/eliasgarcia/Downloads/EliasGarciaLetterofIntroductionDue.html)
+- [Resume](resume.html)
 - [References](references.html)
-- [Letter of Introduction](introduction.html)
-- [Work Samples](samples.html)
+- [Letter of Introduction](https://docs.google.com/document/d/1uwQFlkYONhnTlOXYGtRxZd4S8eimqYkDekn6JUlceFI/edit?tab=t.0)
+- [Work Samples](https://docs.google.com/document/d/1HshNZ44mCl-p9Jzy-HJw9o3kSHiMWt66cq213e6sSJg/edit?tab=t.0)
 - [Review Form](review.html)
 
 ---
